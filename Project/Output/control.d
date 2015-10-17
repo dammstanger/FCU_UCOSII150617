@@ -1,0 +1,30 @@
+.\output\control.o: ..\APP\Control.c
+.\output\control.o: ..\BSP\Timer_PWMin.h
+.\output\control.o: ..\APP\Project_cfg.h
+.\output\control.o: ..\CMSIS\stm32f10x.h
+.\output\control.o: ..\CMSIS\core_cm3.h
+.\output\control.o: D:\Program Files (x86)\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\control.o: ..\CMSIS\system_stm32f10x.h
+.\output\control.o: ..\USER\stm32f10x_conf.h
+.\output\control.o: ..\FWlib\inc\stm32f10x_dma.h
+.\output\control.o: ..\CMSIS\stm32f10x.h
+.\output\control.o: ..\FWlib\inc\stm32f10x_exti.h
+.\output\control.o: ..\FWlib\inc\stm32f10x_gpio.h
+.\output\control.o: ..\FWlib\inc\stm32f10x_i2c.h
+.\output\control.o: ..\FWlib\inc\stm32f10x_rcc.h
+.\output\control.o: ..\FWlib\inc\stm32f10x_spi.h
+.\output\control.o: ..\FWlib\inc\stm32f10x_tim.h
+.\output\control.o: ..\FWlib\inc\stm32f10x_usart.h
+.\output\control.o: ..\FWlib\inc\misc.h
+.\output\control.o: ..\BSP\Timer_PWMout.h
+.\output\control.o: ..\APP\Control.h
+.\output\control.o: ..\APP\Attitude.h
+.\output\control.o: ..\APP\RCdata.h
+.\output\control.o: ..\APP\AHRS.h
+.\output\control.o: ..\HARDWARE\HMC5883.h
+.\output\control.o: ..\APP\Quaternion.h
+.\output\control.o: ..\BSP\usart.h
+.\output\control.o: D:\Program Files (x86)\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\output\control.o: ..\APP\DataProcess.h
+.\output\control.o: ..\HARDWARE\led.h
+.\output\control.o: ..\APP\Sonar.h

@@ -1,0 +1,19 @@
+.\output\24l01.o: ..\HARDWARE\24l01.c
+.\output\24l01.o: ..\HARDWARE\24l01.h
+.\output\24l01.o: ..\APP\Project_cfg.h
+.\output\24l01.o: ..\CMSIS\stm32f10x.h
+.\output\24l01.o: ..\CMSIS\core_cm3.h
+.\output\24l01.o: D:\Program Files (x86)\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\24l01.o: ..\CMSIS\system_stm32f10x.h
+.\output\24l01.o: ..\USER\stm32f10x_conf.h
+.\output\24l01.o: ..\FWlib\inc\stm32f10x_dma.h
+.\output\24l01.o: ..\CMSIS\stm32f10x.h
+.\output\24l01.o: ..\FWlib\inc\stm32f10x_exti.h
+.\output\24l01.o: ..\FWlib\inc\stm32f10x_gpio.h
+.\output\24l01.o: ..\FWlib\inc\stm32f10x_i2c.h
+.\output\24l01.o: ..\FWlib\inc\stm32f10x_rcc.h
+.\output\24l01.o: ..\FWlib\inc\stm32f10x_spi.h
+.\output\24l01.o: ..\FWlib\inc\stm32f10x_tim.h
+.\output\24l01.o: ..\FWlib\inc\stm32f10x_usart.h
+.\output\24l01.o: ..\FWlib\inc\misc.h
+.\output\24l01.o: ..\BSP\spi.h

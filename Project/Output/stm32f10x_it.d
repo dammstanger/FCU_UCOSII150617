@@ -1,0 +1,20 @@
+.\output\stm32f10x_it.o: ..\USER\stm32f10x_it.c
+.\output\stm32f10x_it.o: ..\UCOSII\CORE\ucos_ii.h
+.\output\stm32f10x_it.o: ..\UCOSII\CONFIG\os_cfg.h
+.\output\stm32f10x_it.o: ..\UCOSII\PORT\os_cpu.h
+.\output\stm32f10x_it.o: ..\BSP\SysTick.h
+.\output\stm32f10x_it.o: ..\CMSIS\stm32f10x.h
+.\output\stm32f10x_it.o: ..\CMSIS\core_cm3.h
+.\output\stm32f10x_it.o: D:\Program Files (x86)\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\stm32f10x_it.o: ..\CMSIS\system_stm32f10x.h
+.\output\stm32f10x_it.o: ..\USER\stm32f10x_conf.h
+.\output\stm32f10x_it.o: ..\FWlib\inc\stm32f10x_dma.h
+.\output\stm32f10x_it.o: ..\CMSIS\stm32f10x.h
+.\output\stm32f10x_it.o: ..\FWlib\inc\stm32f10x_exti.h
+.\output\stm32f10x_it.o: ..\FWlib\inc\stm32f10x_gpio.h
+.\output\stm32f10x_it.o: ..\FWlib\inc\stm32f10x_i2c.h
+.\output\stm32f10x_it.o: ..\FWlib\inc\stm32f10x_rcc.h
+.\output\stm32f10x_it.o: ..\FWlib\inc\stm32f10x_spi.h
+.\output\stm32f10x_it.o: ..\FWlib\inc\stm32f10x_tim.h
+.\output\stm32f10x_it.o: ..\FWlib\inc\stm32f10x_usart.h
+.\output\stm32f10x_it.o: ..\FWlib\inc\misc.h

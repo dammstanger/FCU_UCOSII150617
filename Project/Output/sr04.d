@@ -1,0 +1,19 @@
+.\output\sr04.o: ..\HARDWARE\SR04.c
+.\output\sr04.o: ..\HARDWARE\SR04.h
+.\output\sr04.o: ..\APP\Project_cfg.h
+.\output\sr04.o: ..\CMSIS\stm32f10x.h
+.\output\sr04.o: ..\CMSIS\core_cm3.h
+.\output\sr04.o: D:\Program Files (x86)\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\sr04.o: ..\CMSIS\system_stm32f10x.h
+.\output\sr04.o: ..\USER\stm32f10x_conf.h
+.\output\sr04.o: ..\FWlib\inc\stm32f10x_dma.h
+.\output\sr04.o: ..\CMSIS\stm32f10x.h
+.\output\sr04.o: ..\FWlib\inc\stm32f10x_exti.h
+.\output\sr04.o: ..\FWlib\inc\stm32f10x_gpio.h
+.\output\sr04.o: ..\FWlib\inc\stm32f10x_i2c.h
+.\output\sr04.o: ..\FWlib\inc\stm32f10x_rcc.h
+.\output\sr04.o: ..\FWlib\inc\stm32f10x_spi.h
+.\output\sr04.o: ..\FWlib\inc\stm32f10x_tim.h
+.\output\sr04.o: ..\FWlib\inc\stm32f10x_usart.h
+.\output\sr04.o: ..\FWlib\inc\misc.h
+.\output\sr04.o: ..\BSP\SysTick.h

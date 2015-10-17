@@ -1,0 +1,35 @@
+
+T1950 000:460 SEGGER J-Link V4.68a Log File (0000ms, 0268ms total)
+T1950 000:460 DLL Compiled: Apr 12 2013 13:26:50 (0001ms, 0269ms total)
+T1950 000:460 Logging started @ 2015-06-23 13:43 (0001ms, 0269ms total)
+T1950 000:461 JLINK_SetWarnOutHandler(...) (0001ms, 0270ms total)
+T1950 000:462 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N: 799713843
+Feature(s): RDI,FlashDL,FlashBP,JFlash,GDBFULL  returns O.K. (0029ms, 0299ms total)
+T1950 000:491 JLINK_SetErrorOutHandler(...) (0000ms, 0299ms total)
+T1950 000:491 JLINK_ExecCommand("ProjectFile = "E:\ProjectCenter\四轴project\整体实施案例FCU_V1\中后期_uCOSII\FCU_UCOSII150617自主功能完善\Project\JLinkSettings.ini"", ...)  returns 0x00 (0001ms, 0300ms total)
+T1950 000:492 JLINK_ExecCommand("Device = STM32F103VE", ...)
+                JLINK_AddMirrorAreaEx(Addr = 0x00000000, Size = 0x00000000) (0000ms, 0000ms total)
+              Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).  returns 0x00 (0003ms, 0303ms total)
+T1950 000:495 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x00 (0000ms, 0303ms total)
+T1950 000:495 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0303ms total)
+T1950 000:495 JLINK_GetDLLVersion()  returns 46801 (0000ms, 0303ms total)
+T1950 000:495 JLINK_GetFirmwareString(...) (0000ms, 0303ms total)
+T1950 000:495 JLINK_GetDLLVersion()  returns 46801 (0001ms, 0304ms total)
+T1950 000:496 JLINK_GetCompileDateTime() (0000ms, 0304ms total)
+T1950 000:496 JLINK_GetFirmwareString(...) (0000ms, 0304ms total)
+T1950 000:496 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0304ms total)
+T1950 000:496 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0005ms, 0309ms total)
+T1950 000:501 JLINK_SetSpeed(2000) (0001ms, 0310ms total)
+T1950 000:503 JLINK_SetResetType(JLINKARM_RESET_TYPE_NORMAL)  returns JLINKARM_RESET_TYPE_NORMAL (0000ms, 0310ms total)
+T1950 000:503 JLINK_Reset() >0x108 TIF>Found SWD-DP with ID 0x1BA01477 >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF> >0x108 TIF>Found SWD-DP with ID 0x1BA01477 >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF>
+ >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF>TPIU fitted. >0x0D TIF>
+ >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF>FPUnit: 6 code (BP) slots and 2 literal slots >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF>Found Cortex-M3 r1p1, Little endian. -- CPU is running
+ -- CPU_WriteMem(4 bytes @ 0xE000EDF0) -- CPU is running -- CPU_WriteMem(4 bytes @ 0xE000EDFC) >0x35 TIF> -- CPU is running -- CPU_WriteMem(4 bytes @ 0xE000ED0C) -- CPU is running -- CPU_ReadMem(4 bytes @ 0xE000EDF0) -- CPU is running -- CPU_ReadMem(4 bytes @ 0xE000EDF0) -- CPU is running -- CPU_WriteMem(4 bytes @ 0xE000EDF0) -- CPU is running -- CPU_WriteMem(4 bytes @ 0xE000EDFC) -- CPU is running -- CPU_ReadMem(4 bytes @ 0xE000EDF0) -- CPU_WriteMem(4 bytes @ 0xE0002000) (0162ms, 0472ms total)
+T1950 000:665 JLINK_GetId() >0x0D TIF> >0x21 TIF>  returns 0x1BA01477 (0002ms, 0474ms total)
+T1950 000:676 JLINK_GetFirmwareString(...) (0000ms, 0474ms total)
+T1950 002:438 JLINK_Close() >0x42 TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> (0025ms, 0499ms total)
+T1950 002:464 JLINK_Close() (0000ms, 0499ms total)
+T1950 002:465 JLINK_Close() (0000ms, 0499ms total)

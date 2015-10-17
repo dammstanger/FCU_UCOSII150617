@@ -1,0 +1,19 @@
+.\output\timer_pwmin.o: ..\BSP\Timer_PWMin.c
+.\output\timer_pwmin.o: ..\BSP\Timer_PWMin.h
+.\output\timer_pwmin.o: ..\APP\Project_cfg.h
+.\output\timer_pwmin.o: ..\CMSIS\stm32f10x.h
+.\output\timer_pwmin.o: ..\CMSIS\core_cm3.h
+.\output\timer_pwmin.o: D:\Program Files (x86)\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\timer_pwmin.o: ..\CMSIS\system_stm32f10x.h
+.\output\timer_pwmin.o: ..\USER\stm32f10x_conf.h
+.\output\timer_pwmin.o: ..\FWlib\inc\stm32f10x_dma.h
+.\output\timer_pwmin.o: ..\CMSIS\stm32f10x.h
+.\output\timer_pwmin.o: ..\FWlib\inc\stm32f10x_exti.h
+.\output\timer_pwmin.o: ..\FWlib\inc\stm32f10x_gpio.h
+.\output\timer_pwmin.o: ..\FWlib\inc\stm32f10x_i2c.h
+.\output\timer_pwmin.o: ..\FWlib\inc\stm32f10x_rcc.h
+.\output\timer_pwmin.o: ..\FWlib\inc\stm32f10x_spi.h
+.\output\timer_pwmin.o: ..\FWlib\inc\stm32f10x_tim.h
+.\output\timer_pwmin.o: ..\FWlib\inc\stm32f10x_usart.h
+.\output\timer_pwmin.o: ..\FWlib\inc\misc.h
+.\output\timer_pwmin.o: ..\HARDWARE\led.h

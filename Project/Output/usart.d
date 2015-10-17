@@ -1,0 +1,29 @@
+.\output\usart.o: ..\BSP\usart.c
+.\output\usart.o: ..\BSP\usart.h
+.\output\usart.o: ..\APP\Project_cfg.h
+.\output\usart.o: ..\CMSIS\stm32f10x.h
+.\output\usart.o: ..\CMSIS\core_cm3.h
+.\output\usart.o: D:\Program Files (x86)\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\usart.o: ..\CMSIS\system_stm32f10x.h
+.\output\usart.o: ..\USER\stm32f10x_conf.h
+.\output\usart.o: ..\FWlib\inc\stm32f10x_dma.h
+.\output\usart.o: ..\CMSIS\stm32f10x.h
+.\output\usart.o: ..\FWlib\inc\stm32f10x_exti.h
+.\output\usart.o: ..\FWlib\inc\stm32f10x_gpio.h
+.\output\usart.o: ..\FWlib\inc\stm32f10x_i2c.h
+.\output\usart.o: ..\FWlib\inc\stm32f10x_rcc.h
+.\output\usart.o: ..\FWlib\inc\stm32f10x_spi.h
+.\output\usart.o: ..\FWlib\inc\stm32f10x_tim.h
+.\output\usart.o: ..\FWlib\inc\stm32f10x_usart.h
+.\output\usart.o: ..\FWlib\inc\misc.h
+.\output\usart.o: D:\Program Files (x86)\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\output\usart.o: ..\APP\Transmit.h
+.\output\usart.o: ..\APP\Control.h
+.\output\usart.o: ..\BSP\Timer_PWMin.h
+.\output\usart.o: ..\APP\Attitude.h
+.\output\usart.o: ..\APP\RCdata.h
+.\output\usart.o: ..\APP\AHRS.h
+.\output\usart.o: ..\HARDWARE\HMC5883.h
+.\output\usart.o: ..\APP\Quaternion.h
+.\output\usart.o: ..\APP\ComProtocol.h
+.\output\usart.o: ..\HARDWARE\24l01.h

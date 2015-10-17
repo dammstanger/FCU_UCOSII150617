@@ -1,0 +1,20 @@
+.\output\sonar.o: ..\APP\Sonar.c
+.\output\sonar.o: ..\APP\Sonar.h
+.\output\sonar.o: ..\CMSIS\stm32f10x.h
+.\output\sonar.o: ..\CMSIS\core_cm3.h
+.\output\sonar.o: D:\Program Files (x86)\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\sonar.o: ..\CMSIS\system_stm32f10x.h
+.\output\sonar.o: ..\USER\stm32f10x_conf.h
+.\output\sonar.o: ..\FWlib\inc\stm32f10x_dma.h
+.\output\sonar.o: ..\CMSIS\stm32f10x.h
+.\output\sonar.o: ..\FWlib\inc\stm32f10x_exti.h
+.\output\sonar.o: ..\FWlib\inc\stm32f10x_gpio.h
+.\output\sonar.o: ..\FWlib\inc\stm32f10x_i2c.h
+.\output\sonar.o: ..\FWlib\inc\stm32f10x_rcc.h
+.\output\sonar.o: ..\FWlib\inc\stm32f10x_spi.h
+.\output\sonar.o: ..\FWlib\inc\stm32f10x_tim.h
+.\output\sonar.o: ..\FWlib\inc\stm32f10x_usart.h
+.\output\sonar.o: ..\FWlib\inc\misc.h
+.\output\sonar.o: ..\APP\Project_cfg.h
+.\output\sonar.o: ..\HARDWARE\SR04.h
+.\output\sonar.o: ..\BSP\SysTick.h
