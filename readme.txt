@@ -11,6 +11,7 @@
   *个人建议：                                   *
   *编译文档时用keil编译。                       *
   *---------------------------------------------**/
+write an examlpe
 RCC_APB1PeriphClockCmd
 RCC_APB1Periph_TIM2, RCC_APB1Periph_TIM3, RCC_APB1Periph_TIM4,
 RCC_APB1Periph_TIM5, RCC_APB1Periph_TIM6, RCC_APB1Periph_TIM7,
